@@ -1,0 +1,23 @@
+{
+    "name": "mugomes/mgformvalidation",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Murilo Gomes Julio",
+            "email": "mugomesoficial@gmail.com",
+            "homepage": "https://mugomes.github.io"
+        }
+    ],
+    "license": "LGPL-2.1-only",
+    "_comment": [
+        "Copyright (C) 2026 Murilo Gomes Julio"
+    ],
+    "require": {
+        "php": ">=8.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MGFormValidation\\": "src/"
+        }
+    }
+}
