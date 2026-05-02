@@ -12,7 +12,7 @@ Validação de Formulário em PHP sem redirecionamento para POST e GET.
 
 **Murilo Gomes Julio**
 
-🔗 [https://www.mugomes.com.br](https://www.mugomes.com.br)
+🔗 [https://www.bluice.com.br](https://www.bluice.com.br)
 
 📺 [https://youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
 
