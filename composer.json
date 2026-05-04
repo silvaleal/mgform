@@ -2,7 +2,7 @@
     "name": "silvaleal/mgform",
     "description": "Biblioteca de validação para formulários",
     "type": "library",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "authors": [
         {
             "name": "Murilo Gomes Julio",
