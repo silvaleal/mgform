@@ -1,23 +1,29 @@
 {
-    "name": "mugomes/mgformvalidation",
-    "version": "1.0.0",
+    "name": "silvaleal/mgform",
+    "description": "Biblioteca de validação para formulários",
+    "type": "library",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Murilo Gomes Julio",
             "email": "mugomesoficial@gmail.com",
             "homepage": "https://mugomes.github.io"
+        },
+        {
+            "name": "silvaleal",
+            "email": "me@silvaleal.dev",
+            "homepage": "https://silvaleal.dev"
         }
     ],
     "license": "LGPL-2.1-only",
-    "_comment": [
-        "Copyright (C) 2026 Murilo Gomes Julio"
-    ],
     "require": {
-        "php": ">=8.4.0"
+        "php": ">=8.1"
     },
     "autoload": {
         "psr-4": {
-            "MGFormValidation\\": "src/"
+            "MGForm\\": "src/",
+            "MGFormValidation\\": "src/",
+            "App\\": "app/"
         }
     }
 }
