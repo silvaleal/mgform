@@ -22,7 +22,7 @@ class AuthController {
     {
         $validator = (new Validator())->validate([
             'nome' => 'required|min:3|max:5',
-            'clan' => 'required:min:3',
+            'clan' => 'required|min:3',
             'email' => 'required|email'
         ]);
 
