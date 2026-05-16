@@ -10,7 +10,7 @@ composer require silvaleal/mgform
 ```
 
 ## Exemplo de Uso
-### Controller
+### PHP
 ```php
 $data = (new Validator())->validate([
     'nome' => 'required|min:3|max:5',
